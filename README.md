@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @swade
 - 👀 I’m a web/software dev
-- ⚡ I’m currently upgrading my skillset.
+- ⚡ I’m currently developing a way to automate short form content.
+
 
 Interested in working together? swademcm@gmail.com
 
