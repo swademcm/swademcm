@@ -5,7 +5,7 @@
 My Projects
 - 🤝 [Shorts](https://shorts.icu) (CEO/Founder) 
 
-Interested in working together? swademcm@gmail.com
+Interested in working together? swade@shorts.icu
 
 
 
