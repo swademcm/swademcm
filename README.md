@@ -3,9 +3,10 @@
 - ⚡ I’m currently developing a way to automate short form content.
 
 My Projects
-- 🤝 [Shorts](https://shorts.icu) (CEO/Founder) DELETED.
+- 🤝 [Shorts](https://shorts.icu) (CEO/Founder) Postponed.
+- 🚀 [Swade.lol](https://swade.lol) (Personal Site) 
 
-Interested in working together? swade@shorts.icu
+Interested in working together? swademcm@gmail.com
 
 
 
