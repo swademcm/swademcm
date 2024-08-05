@@ -3,7 +3,7 @@
 - ⚡ I’m currently developing a way to automate short form content.
 
 My Projects
-- 🤝 [Shorts](https://shorts.icu) (CEO/Founder) 
+- 🤝 [Shorts](https://shorts.icu) (CEO/Founder) DELETED.
 
 Interested in working together? swade@shorts.icu
 
