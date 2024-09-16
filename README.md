@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Swade**
-- 👀 I’m a web/software dev
-- ⚡ I’m currently developing a web analytic solution
+- 👀 I’m a **web/software dev**
+- ⚡ I’m currently developing a **web analytic solution**
 
 My Projects
 - 🤝 [Shorts](https://shorts.icu) (CEO/Founder) Postponed.
