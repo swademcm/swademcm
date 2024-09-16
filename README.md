@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @swade
+- 👋 Hi, I’m **Swade**
 - 👀 I’m a web/software dev
-- ⚡ I’m currently developing a way to automate short form content.
+- ⚡ I’m currently developing a web analytic solution
 
 My Projects
 - 🤝 [Shorts](https://shorts.icu) (CEO/Founder) Postponed.
-- 🚀 [Swade.lol](https://swade.lol) (Personal Site) 
+- 🚀 [Swade.lol](https://swade.lol) (Personal Site)
+  
 
 Interested in working together? swademcm@gmail.com
 
